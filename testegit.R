@@ -1,1 +1,6 @@
- soma <- 2+2
+  #soma simples
+
+soma <- 2+2
+ 
+
+ 
